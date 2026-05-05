@@ -1,6 +1,6 @@
 # 🧪 Mock API + Automated Tests
 
-![CI](https://github.com/Nayumt99/mock-api/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/Nayumt99/mock-api/actions/workflows/tests.yml/badge.svg)
 
 Projeto de API mockada com testes automatizados e pipeline de CI/CD usando GitHub Actions.
 
