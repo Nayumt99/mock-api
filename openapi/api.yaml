@@ -1,0 +1,14 @@
+openapi: 3.0.0
+info:
+  title: Mock API
+  version: 1.0.0
+
+paths:
+  /users:
+    get:
+      summary: Lista usuários
+      responses:
+        '200':
+          description: sucesso
+        '500':
+          description: erro interno

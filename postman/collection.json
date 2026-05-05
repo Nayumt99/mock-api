@@ -1,0 +1,12 @@
+{
+  "info": { "name": "Mock API" },
+  "item": [
+    {
+      "name": "GET Users",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/users"
+      }
+    }
+  ]
+}

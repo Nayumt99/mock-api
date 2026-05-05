@@ -1,0 +1,11 @@
+{
+  "id": "mock-env",
+  "name": "Mock Environment",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:3000",
+      "enabled": true
+    }
+  ]
+}
